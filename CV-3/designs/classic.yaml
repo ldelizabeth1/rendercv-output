@@ -14,7 +14,7 @@ design:
     headline: rgb(0, 0, 0)
     connections: rgb(0, 0, 0)
     section_titles: rgb(0, 0, 0)
-    links: rgb(0, 79, 144)
+    links: rgb(17, 8, 8)
     footer: rgb(128, 128, 128)
     top_note: rgb(128, 128, 128)
   typography:
