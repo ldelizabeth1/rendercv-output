@@ -10,7 +10,7 @@ design:
     show_top_note: true
   colors:
     body: rgb(0, 0, 0)
-    name: rgb(0, 79, 144)
+    name: rgb(14, 14, 14)
     headline: rgb(0, 79, 144)
     connections: rgb(0, 79, 144)
     section_titles: rgb(0, 79, 144)
