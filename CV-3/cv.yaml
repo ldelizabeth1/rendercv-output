@@ -1,182 +1,253 @@
 cv:
-  name: John Doe
+  name: Lauren DeLamielleure
   headline:
-  location: San Francisco, CA
-  email: john.doe@email.com
+  location: Miami, FL
+  email: ldela136@med.fiu.edu
   photo:
-  phone:
-  website: https://rendercv.com/
+  phone: "+19044221149"
+  website:
   social_networks:
-    - network: LinkedIn
-      username: rendercv
-    - network: GitHub
-      username: rendercv
+    - network: ResearchGate
+      username: Lauren-DeLamielleure
   custom_connections:
   sections:
-    Welcome to RenderCV:
-      - RenderCV reads a CV written in a YAML file, and generates a PDF with professional typography.
-      - Each section title is arbitrary.
-      - You can choose any of the 9 entry types for each section.
-      - Markdown syntax is supported everywhere. This is **bold**, *italic*, and [link](https://example.com).
     education:
-      - institution: Princeton University
-        area: Computer Science
-        degree: PhD
-        date:
-        start_date: 2018-09
-        end_date: 2023-05
-        location: Princeton, NJ
-        summary:
-        highlights:
-          - 'Thesis: Efficient Neural Architecture Search for Resource-Constrained Deployment'
-          - 'Advisor: Prof. Sanjeev Arora'
-          - NSF Graduate Research Fellowship, Siebel Scholar (Class of 2022)
-      - institution: Boğaziçi University
-        area: Computer Engineering
-        degree: BS
-        date:
-        start_date: 2014-09
-        end_date: 2018-06
-        location: Istanbul, Türkiye
-        summary:
-        highlights:
-          - 'GPA: 3.97/4.00, Valedictorian'
-          - Fulbright Scholarship recipient for Graduate Studies
-    experience:
-      - company: Nexus AI
-        position: Co-Founder & CTO
-        date:
-        start_date: 2023-06
-        end_date: present
-        location: San Francisco, CA
-        summary:
-        highlights:
-          - Built foundation model infrastructure serving 2M+ monthly API requests with 99.97% uptime
-          - Raised $18M Series A led by Sequoia Capital, with participation from a16z and Founders Fund
-          - Scaled engineering team from 3 to 28 across ML research, platform, and applied AI divisions
-          - Developed proprietary inference optimization reducing latency by 73% compared to baseline
-      - company: NVIDIA Research
-        position: Research Intern
-        date:
-        start_date: 2022-05
-        end_date: 2022-08
-        location: Santa Clara, CA
-        summary:
-        highlights:
-          - Designed sparse attention mechanism reducing transformer memory footprint by 4.2x
-          - Co-authored paper accepted at NeurIPS 2022 (spotlight presentation, top 5% of submissions)
-      - company: Google DeepMind
-        position: Research Intern
-        date:
-        start_date: 2021-05
-        end_date: 2021-08
-        location: London, UK
-        summary:
-        highlights:
-          - Developed reinforcement learning algorithms for multi-agent coordination
-          - Published research at top-tier venues with significant academic impact
-            - ICML 2022 main conference paper, cited 340+ times within two years
-            - NeurIPS 2022 workshop paper on emergent communication protocols
-            - Invited journal extension in JMLR (2023)
-      - company: Apple ML Research
-        position: Research Intern
-        date:
-        start_date: 2020-05
-        end_date: 2020-08
-        location: Cupertino, CA
-        summary:
-        highlights:
-          - Created on-device neural network compression pipeline deployed across 50M+ devices
-          - Filed 2 patents on efficient model quantization techniques for edge inference
-      - company: Microsoft Research
-        position: Research Intern
-        date:
-        start_date: 2019-05
-        end_date: 2019-08
-        location: Redmond, WA
-        summary:
-        highlights:
-          - Implemented novel self-supervised learning framework for low-resource language modeling
-          - Research integrated into Azure Cognitive Services, reducing training data requirements by 60%
-    projects:
-      - name: '[FlashInfer](https://github.com/)'
-        date:
-        start_date: 2023-01
-        end_date: present
-        location:
-        summary: Open-source library for high-performance LLM inference kernels
-        highlights:
-          - Achieved 2.8x speedup over baseline attention implementations on A100 GPUs
-          - Adopted by 3 major AI labs, 8,500+ GitHub stars, 200+ contributors
-      - name: '[NeuralPrune](https://github.com/)'
-        date: '2021'
+      - institution: Florida International University Herbert Wertheim College of Medicine
+        area: Medicine
+        degree: M.D. Candidate
+        date: Expected May 2028
         start_date:
         end_date:
-        location:
-        summary: Automated neural network pruning toolkit with differentiable masks
+        location: Miami, FL
+        summary:
         highlights:
-          - Reduced model size by 90% with less than 1% accuracy degradation on ImageNet
-          - Featured in PyTorch ecosystem tools, 4,200+ GitHub stars
-    publications:
-      - title: 'Sparse Mixture-of-Experts at Scale: Efficient Routing for Trillion-Parameter Models'
-        authors:
-          - '*John Doe*'
-          - Sarah Williams
-          - David Park
+      - institution: Florida Atlantic University, Charles E. Schmidt College of Medicine
+        area: Biomedical Sciences
+        degree: M.S.
+        date:
+        start_date: 2021
+        end_date: 2022
+        location: Boca Raton, FL
         summary:
-        doi: 10.1234/neurips.2023.1234
-        url:
-        journal: NeurIPS 2023
-        date: 2023-07
-      - title: Neural Architecture Search via Differentiable Pruning
+        highlights:
+          - 'GPA: 3.97'
+      - institution: Florida State University
+        area: Interdisciplinary Medical Sciences
+        degree: B.S.
+        date:
+        start_date: 2017
+        end_date: 2020
+        location: Tallahassee, FL
+        summary: Magna Cum Laude
+        highlights:
+          - 'GPA: 3.83'
+    awards_and_honors:
+      - name: Travel Scholarship, PeDRA Pediatric Dermatology Research Alliance
+        date: 2026-07
+        highlights:
+          - Selected as one of 70 medical students for PeDRA's NextGen Research Forum; abstract accepted for poster presentation, with a $300 travel scholarship.
+      - name: American Academy of Dermatology | Good Skin Knowledge Community Grant
+        date: 2026-04
+        highlights:
+          - Awarded $2,000 (maximum tier) to teach AAD's four-module Good Skin Knowledge curriculum to 100 youth ages 8–13 at Overtown Youth Center, addressing disparities in dermatological health knowledge in an underserved South Florida community.
+      - name: Poster Finalist, 7th Annual MDCMA/BCMA Research Competition
+        date: 2026-03
+      - name: President's List, Florida State University (4.0 GPA)
+        start_date: 2019
+        end_date: 2020
+      - name: Dean's List, Florida State University (3.5+ GPA)
+        start_date: 2017
+        end_date: 2019
+      - name: Golden Key International Honor Society, Florida State University (top 15% of class)
+        date: 2018-01
+      - name: Torch Night Award, FSU Garnet & Gold Key Leadership Honorary
+        date: 2017-08
+    research_experience:
+      - company: Joe DiMaggio Children's Hospital
+        position: Research Assistant, Pediatric Immunology & Allergy
+        start_date: 2025
+        end_date: present
+        location: Hollywood, FL
+        summary: 'Advisor: Christopher Chang, MD, PhD, MBA'
+        highlights:
+          - '**Project Focus:** Population-level clinical research using Epic Cosmos, a national de-identified EHR database (>277M patients; >9B encounters).'
+          - '**Responsibilities:** Lead projects from hypothesis development through feasibility queries, dataset extraction, and analysis; draft manuscripts and abstracts translating epidemiological findings into clinically actionable insights.'
+          - '**Outcomes:** Poster presented at the Society for Investigative Dermatology Annual Meeting (May 2026); multiple manuscripts in progress.'
+      - company: Yale School of Medicine
+        position: Research Associate, Emergency Medicine
+        start_date: 2022
+        end_date: 2023
+        location: New Haven, CT
+        summary: 'Advisor: Basmah Safdar, MD'
+        highlights:
+          - '**Project Focus:** Multi-center CDC-funded surveillance studies (IVY-5/IVY-6) on respiratory virus outcomes (influenza, COVID-19, RSV) and sex-based differences in recovery following cardiac surgery.'
+          - '**Responsibilities:** Conducted clinical data abstraction and specimen collection for hospitalized patient enrollment; managed data and coordinated large-scale national epidemiological analyses.'
+          - '**Outcomes:** Co-author on three peer-reviewed publications in Clinical Therapeutics (2025) and Clinical Infectious Diseases (2024, 2025).'
+      - company: Dade County Street Response
+        position: Clinical Research Coordinator, Street Medicine
+        start_date: 2021
+        end_date: 2023
+        location: Miami, FL
+        summary: 'Advisor: Armen Henderson, MD'
+        highlights:
+          - '**Project Focus:** Community-based research assessing health needs among people experiencing homelessness in Miami-Dade County.'
+          - '**Responsibilities:** Designed and managed REDCap databases for dermatologic research; led needs assessments identifying gaps in vision and skin care access; coordinated prospective data collection at mobile clinics while delivering wound care and skin cancer referrals.'
+          - '**Outcomes:** Three poster presentations at national conferences (APSA, AAMC GSA/OSR, Innovations in Medical Education); published community ophthalmology needs assessment report.'
+      - company: Florida State University
+        position: Undergraduate Research Associate, Department of Biological Science
+        start_date: 2017
+        end_date: 2020
+        location: Tallahassee, FL
+        summary: 'Advisor: Lisa Lyons, PhD'
+        highlights:
+          - '**Project Focus:** Effects of sleep deprivation on RNA-binding proteins (hnRNP A2/B1, hnRNP DL) in C57BL/6 mouse brain regions, evaluating mechanisms of memory and circadian regulation.'
+          - '**Responsibilities:** Performed Western blotting, Bradford protein assays, and subcellular protein fractionation to analyze neuronal protein expression.'
+          - '**Outcomes:** Poster presented at the 19th Annual FSU Undergraduate Research Symposium (April 2019).'
+    Peer-Reviewed Publications:
+      - title: 'Sex Differences in Response to a 12-Week Resistance Training Exercise Intervention After Cardiac Surgery: A Proof-of-Concept Intervention Trial'
         authors:
-          - James Liu
-          - '*John Doe*'
-        summary:
-        doi: 10.1234/neurips.2022.5678
-        url:
-        journal: NeurIPS 2022, Spotlight
-        date: 2022-12
-      - title: Multi-Agent Reinforcement Learning with Emergent Communication
+          - Safdar B
+          - Jarman AF
+          - Madsen TE
+          - '**DeLamielleure LE**'
+          - et al.
+        journal: Clinical Therapeutics. 2025;47(4):299–306
+        doi: 10.1016/j.clinthera.2025.01.002
+        date: 2025
+      - title: 'Benefit of Early Oseltamivir Therapy for Adults Hospitalized With Influenza A: An Observational Study'
         authors:
-          - Maria Garcia
-          - '*John Doe*'
-          - Tom Anderson
-        summary:
-        doi: 10.1234/icml.2022.9012
-        url:
-        journal: ICML 2022
-        date: 2022-07
-      - title: On-Device Model Compression via Learned Quantization
+          - Lewis NM
+          - Harker EJ
+          - Grant LB
+          - et al.
+          - '**DeLamielleure LE** (author 48 of 56)'
+        journal: Clinical Infectious Diseases. 2025;81(1):190–197
+        doi: 10.1093/cid/ciae584
+        date: 2025
+      - title: 'Vaccine Effectiveness Against Influenza A–Associated Hospitalization, Organ Failure, and Death: United States, 2022–2023'
         authors:
-          - '*John Doe*'
-          - Kevin Wu
-        summary:
-        doi: 10.1234/iclr.2021.3456
-        url:
-        journal: ICLR 2021, Best Paper Award
-        date: 2021-05
-    selected_honors:
-      - bullet: MIT Technology Review 35 Under 35 Innovators (2024)
-      - bullet: Forbes 30 Under 30 in Enterprise Technology (2024)
-      - bullet: ACM Doctoral Dissertation Award Honorable Mention (2023)
-      - bullet: Google PhD Fellowship in Machine Learning (2020 – 2023)
-      - bullet: Fulbright Scholarship for Graduate Studies (2018)
+          - Lewis NM
+          - Zhu Y
+          - Peltan ID
+          - '**DeLamielleure L**'
+          - et al.
+        journal: Clinical Infectious Diseases. 2024;78(4):1056–1064
+        doi: 10.1093/cid/ciad677
+        date: 2024
+      - title: 'Scalp, Oral, and Nail Pemphigus Vulgaris: Clinical Characteristics and a Review of the Literature'
+        authors:
+          - Eachus E
+          - '**DeLamielleure LE**'
+          - Mitha S
+          - Rasul TF
+          - Faiz A
+        journal: Cureus. 2023;15(4):e38334
+        doi: 10.7759/cureus.38334
+        date: 2023
+      - title: 'Wound Healing as an Unconventional Marker for Epilepsy Control in a Patient Experiencing Homelessness: A Case Report'
+        authors:
+          - Obregon J
+          - '**DeLamielleure L**'
+          - Rasul TF
+          - Blake B
+          - Henderson A
+        journal: Cureus. 2022;14(11):e31052
+        doi: 10.7759/cureus.31052
+        date: 2022
+    Published Abstracts:
+      - title: 'Anxiety Modifies the Association Between Psoriasis and Depression: Insights from a National Survey'
+        authors:
+          - '**DeLamielleure L**'
+          - Lopez B
+          - Gershenson J
+          - Ruiz-Pelaez J
+        journal: Journal of Investigative Dermatology. 2026;146(8 Suppl):0193
+        date: 2026
+    Poster Presentations:
+      - bullet: 'Gonzalez R, **DeLamielleure L**, Zaiac MN. Bilateral Linear Pigmented Papules of the Cheeks in a Patient with Basal Cell Carcinoma: A Novel Presentation and Diagnostic Challenge. Poster Finalist, 7th Annual MDCMA/BCMA Residents and Medical Students Research Competition; March 7, 2026; Miami, FL.'
+      - bullet: 'King T, Perez-Lago G, **DeLamielleure L**, Keelin J, Nicolazzo D. A Rare Convergence of Inverse, Urticarial, and Recurrent Pityriasis Rosea Mimicking Tinea Cruris in a Young Adult Male. San Diego Dermatology Symposium; February 27–March 1, 2026; San Diego, CA.'
+      - bullet: 'Duong C, Vo K, Fadel L, Govea N, **DeLamielleure L**, Frasier K, Bridges AG. Microtoxin as a Novel Modality for Texture, Erythema, and Scar Refinement. ODAC Dermatology, Aesthetic & Surgical Conference; January 16–19, 2026; Orlando, FL.'
+      - bullet: 'Eachus E, Schwartz K, Rasul TF, **DeLamielleure L**. Utilizing REDCap for Cutaneous Disease Management Among the Unsheltered in Street Medicine Outreach. AAMC Southern and Central GSA/OSR Regional Spring Meeting; March 30, 2023; Kansas City, MO.'
+      - bullet: 'Eachus E, Schwartz K, **DeLamielleure L**, Rasul TF. Assessment of REDCap in Managing Cutaneous Disease Among the Unsheltered During Street Medicine Outreach. American Physician Scientist Association (APSA) Student Research Symposium; March 3, 2023; Miller School of Medicine, Miami, FL.'
+      - bullet: '**DeLamielleure L**, Gonzalez L, Rasul TF, Henderson A. Student-Run Street Medicine Assessment of Vision Health in People Experiencing Homelessness. Innovations in Medical Education Conference; February 16, 2023; Keck School of Medicine of USC, Los Angeles, CA.'
+      - bullet: '**DeLamielleure L**. Analysis of the Impact of Sleep Deprivation on RNA Binding Proteins in Mouse Brain Regions. 19th Annual Undergraduate Research Symposium; April 2, 2019; Florida State University, Tallahassee, FL.'
+    Other Scholarly Work:
+      - bullet: '**DeLamielleure L**, Gonzalez L, Hucko L, Rasul TF. Ophthalmology Needs Assessment: Miami Street Medicine. Non-peer-reviewed community health report; January 2023.'
+    leadership_and_service:
+      - name: Glow Forward Foundation | Chapter Lead
+        date: 2025 – Present
+        highlights:
+          - Founded and lead the FIU HWCOM chapter of a national nonprofit supporting people experiencing homelessness through access to hygiene and skincare products.
+          - Organized campus-wide collection drives and awareness campaigns, collecting 350+ hygiene products for distribution to Camillus House in Miami and raising $185 for FIU HOME, a student-led street medicine program.
+      - name: Florida Medical Student Research Journal (FMSRJ) | Junior Editor
+        date: 2025 – Present
+        highlights:
+          - Junior Editor for a statewide, student-run, peer-reviewed journal publishing research, reviews, case reports, and editorials.
+          - Peer review submissions for scientific rigor, clarity, and ICMJE adherence; collaborate with Editors-in-Chief and faculty advisors on editorial workflow.
+      - name: MEDSWISH Community Health Outreach Fairs | Volunteer
+        date: 2024 – Present
+        highlights:
+          - Delivered free health screenings and patient education at fairs serving medically underserved communities across South Florida.
+          - Performed blood pressure, glucose, and vision screenings; referred patients to free community clinics for continuity of care.
+      - name: SunSmart 5K Run | Race Volunteer
+        date: Dec 2024 – 2025
+        highlights:
+          - Supported a student-led event promoting sun safety and skin cancer awareness; assisted with event logistics, participant coordination, and educational outreach.
+    teaching_and_mentorship:
+      - name: Premedical Undergraduate Mentor Program (PUMP) | Mentor
+        date: 2024 – Present
+        highlights:
+          - Provide longitudinal mentorship to undergraduate premedical students on coursework, study strategies, research involvement, and medical school applications.
+      - name: MEDLEAD M1–M2 Mentorship Program | Mentor
+        date: 2024 – Present
+        highlights:
+          - Mentor Class of 2029 students through the transition into medical school; advise one-on-one on study habits, wellness, and time management.
+      - name: Graduate Teaching Assistant, Department of Chemistry and Biochemistry
+        start_date: 2021
+        end_date: 2022
+        location: Boca Raton, FL
+        summary: Florida Atlantic University
+        highlights:
+          - Taught Chemistry I & II laboratory sessions; reinforced core lab skills and safety practices; assisted with experiment setup and data interpretation; held weekly office hours.
+    work_experience:
+      - name: Freelance Writer | Fiverr
+        date: 2023 – Present
+        highlights:
+          - Provide editing and content development across academic, scientific, and professional domains, producing polished written materials tailored to client audiences.
+      - name: Substitute Teacher | Broward County Public Schools
+        date: 2022 – 2023
+        highlights:
+          - Instructed K–12 curricula across diverse learning needs; adapted communication techniques to foster inclusive classroom environments.
     skills:
+      - label: Statistical Analysis
+        details: Stata, GraphPad Prism
+      - label: Research & Data Tools
+        details: REDCap, Epic Cosmos, Covidence, EndNote, LaTeX
+      - label: Electronic Medical Records
+        details: Epic, AthenaOne
+      - label: Design & Media
+        details: Adobe Illustrator, Canva, CapCut, iMovie
+      - label: Productivity & Workflow
+        details: Microsoft Office Suite, Google Workspace, Notion
       - label: Languages
-        details: Python, C++, CUDA, Rust, Julia
-      - label: ML Frameworks
-        details: PyTorch, JAX, TensorFlow, Triton, ONNX
-      - label: Infrastructure
-        details: Kubernetes, Ray, distributed training, AWS, GCP
-      - label: Research Areas
-        details: Neural architecture search, model compression, efficient inference, multi-agent RL
-    patents:
-      - number: Adaptive Quantization for Neural Network Inference on Edge Devices (US Patent 11,234,567)
-      - number: Dynamic Sparsity Patterns for Efficient Transformer Attention (US Patent 11,345,678)
-      - number: Hardware-Aware Neural Architecture Search Method (US Patent 11,456,789)
-    invited_talks:
-      - reversed_number: Scaling Laws for Efficient Inference — Stanford HAI Symposium (2024)
-      - reversed_number: Building AI Infrastructure for the Next Decade — TechCrunch Disrupt (2024)
-      - reversed_number: 'From Research to Production: Lessons in ML Systems — NeurIPS Workshop (2023)'
-      - reversed_number: "Efficient Deep Learning: A Practitioner's Perspective — Google Tech Talk (2022)"
+        details: English (native); French (working proficiency); Spanish (elementary proficiency)
+      - label: Interests
+        details: Fitness; travel; community health outreach; dermatology education; videography; Pilates; yoga
+    certifications:
+      - name: Basic Life Support (BLS), CPR & AED — American Heart Association
+        date: 2024-10
+      - name: 'CITI Program — Human Subjects Research, RCR, and Health Information Privacy & Security'
+        date: 2025-11
+      - name: 'Biosafety: Bloodborne & Airborne Pathogens — OSHA'
+        date: 2026-02
+      - name: HIPAA Privacy & Security Training — Florida International University
+        date: 2026-02
+    professional_memberships:
+      - name: Pediatric Dermatology Research Alliance (medical student research cohort)
+        date: April 2026 – Present
+      - name: Society for Investigative Dermatology
+        date: Feb 2026 – Present
+      - name: American Medical Association
+        date: Dec 2025 – Present
+      - name: Dade County Medical Association
+        date: Aug 2025 – Present
