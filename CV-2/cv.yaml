@@ -4,7 +4,7 @@ cv:
   email: ldela136@med.fiu.edu
   phone: "+1-904-422-1149"
   sections:
-    education:
+    Education:
       - institution: Florida International University Herbert Wertheim College of Medicine
         area: Medicine
         degree: M.D.
@@ -27,7 +27,7 @@ cv:
         highlights:
           - "Magna Cum Laude; GPA: 3.83"
 
-    awards and honors:
+    Awards and Honors:
       - name: Travel Scholarship, PeDRA Pediatric Dermatology Research Alliance
         date: July 2026
         highlights:
@@ -47,7 +47,7 @@ cv:
       - name: Torch Night Award, FSU Garnet & Gold Key Leadership Honorary
         date: Aug 2017
 
-    research experience:
+    Research Experience:
       - company: Joe DiMaggio Children's Hospital
         position: Research Assistant, Pediatric Immunology & Allergy
         location: Hollywood, FL
@@ -85,7 +85,7 @@ cv:
           - "**Responsibilities:** Performed Western blotting, Bradford protein assays, and subcellular protein fractionation to analyze neuronal protein expression."
           - "**Outcomes:** Poster presented at the 19th Annual FSU Undergraduate Research Symposium (April 2019)."
 
-    peer-reviewed publications:
+    Peer-Reviewed Publications:
       - title: "Sex Differences in Response to a 12-Week Resistance Training Exercise Intervention After Cardiac Surgery: A Proof-of-Concept Intervention Trial"
         authors: [Safdar B, Jarman AF, Madsen TE, "**DeLamielleure LE**", et al.]
         journal: "Clinical Therapeutics. 2025;47(4):299–306"
@@ -112,13 +112,13 @@ cv:
         date: "2022"
         doi: 10.7759/cureus.31052
 
-    published abstracts:
+    Published Abstracts:
       - title: "Anxiety Modifies the Association Between Psoriasis and Depression: Insights from a National Survey"
         authors: ["**DeLamielleure L**", Lopez B, Gershenson J, Ruiz-Pelaez J]
         journal: "Journal of Investigative Dermatology. 2026;146(8 Suppl):0193"
         date: "2026"
 
-    poster presentations:
+    Poster Presentations:
       - title: "Bilateral Linear Pigmented Papules of the Cheeks in a Patient with Basal Cell Carcinoma: A Novel Presentation and Diagnostic Challenge"
         authors: [Gonzalez R, "**DeLamielleure L**", Zaiac MN]
         journal: "Poster Finalist, 7th Annual MDCMA/BCMA Residents and Medical Students Research Competition; Miami, FL"
@@ -148,13 +148,13 @@ cv:
         journal: "19th Annual Undergraduate Research Symposium; Florida State University, Tallahassee, FL"
         date: April 2, 2019
 
-    other scholarly work:
+    Other Scholarly Work:
       - title: "Ophthalmology Needs Assessment: Miami Street Medicine"
         authors: ["**DeLamielleure L**", Gonzalez L, Hucko L, Rasul TF]
         journal: "Non-peer-reviewed community health report"
         date: January 2023
 
-    leadership and service:
+    Leadership and Service:
       - company: Glow Forward Foundation
         position: Chapter Lead
         date: 2025–Present
@@ -179,7 +179,7 @@ cv:
         highlights:
           - Supported a student-led event promoting sun safety and skin cancer awareness; assisted with event logistics, participant coordination, and educational outreach.
 
-    teaching and mentorship:
+    Teaching and Mentorship:
       - company: Premedical Undergraduate Mentor Program (PUMP)
         position: Mentor
         date: 2024–Present
@@ -197,7 +197,7 @@ cv:
         highlights:
           - Taught Chemistry I & II laboratory sessions; reinforced core lab skills and safety practices; assisted with experiment setup and data interpretation; held weekly office hours.
 
-    work experience:
+    Work Experience:
       - company: Fiverr
         position: Freelance Writer
         date: 2023–Present
@@ -209,7 +209,7 @@ cv:
         highlights:
           - Instructed K–12 curricula across diverse learning needs; adapted communication techniques to foster inclusive classroom environments.
 
-    skills:
+    Skills:
       - label: Statistical Analysis
         details: Stata, GraphPad Prism
       - label: Research & Data Tools
@@ -225,7 +225,7 @@ cv:
       - label: Interests
         details: Fitness; travel; community health outreach; dermatology education; videography; Pilates; yoga
 
-    certifications:
+    Certifications:
       - name: Basic Life Support (BLS), CPR & AED — American Heart Association
         date: Oct 2024
       - name: CITI Program — Human Subjects Research, RCR, and Health Information Privacy & Security
@@ -235,7 +235,7 @@ cv:
       - name: HIPAA Privacy & Security Training — Florida International University
         date: Feb 2026
 
-    professional memberships:
+    Professional Memberships:
       - name: Pediatric Dermatology Research Alliance (medical student research cohort)
         date: April 2026–Present
       - name: Society for Investigative Dermatology
