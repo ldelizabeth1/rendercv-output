@@ -92,7 +92,6 @@ cv:
           - "**DeLamielleure LE**"
           - "et al."
         journal: "Clinical Therapeutics. 2025;47(4):299–306"
-        date: "2025"
         doi: "10.1016/j.clinthera.2025.01.002"
       - title: "Benefit of Early Oseltamivir Therapy for Adults Hospitalized With Influenza A: An Observational Study"
         authors:
@@ -102,7 +101,6 @@ cv:
           - "et al."
           - "**DeLamielleure LE** (author 48 of 56)"
         journal: "Clinical Infectious Diseases. 2025;81(1):190–197"
-        date: "2025"
         doi: "10.1093/cid/ciae584"
       - title: "Vaccine Effectiveness Against Influenza A–Associated Hospitalization, Organ Failure, and Death: United States, 2022–2023"
         authors:
@@ -112,7 +110,6 @@ cv:
           - "**DeLamielleure L**"
           - "et al."
         journal: "Clinical Infectious Diseases. 2024;78(4):1056–1064"
-        date: "2024"
         doi: "10.1093/cid/ciad677"
       - title: "Scalp, Oral, and Nail Pemphigus Vulgaris: Clinical Characteristics and a Review of the Literature"
         authors:
@@ -122,7 +119,6 @@ cv:
           - "Rasul TF"
           - "Faiz A"
         journal: "Cureus. 2023;15(4):e38334"
-        date: "2023"
         doi: "10.7759/cureus.38334"
       - title: "Wound Healing as an Unconventional Marker for Epilepsy Control in a Patient Experiencing Homelessness: A Case Report"
         authors:
@@ -132,7 +128,6 @@ cv:
           - "Blake B"
           - "Henderson A"
         journal: "Cureus. 2022;14(11):e31052"
-        date: "2022"
         doi: "10.7759/cureus.31052"
     Published Abstracts:
       - title: "Anxiety Modifies the Association Between Psoriasis and Depression: Insights from a National Survey"
@@ -142,7 +137,6 @@ cv:
           - "Gershenson J"
           - "Ruiz-Pelaez J"
         journal: "Journal of Investigative Dermatology. 2026;146(8 Suppl):0193"
-        date: "2026"
     Poster Presentations:
       - title: "Bilateral Linear Pigmented Papules of the Cheeks in a Patient with Basal Cell Carcinoma: A Novel Presentation and Diagnostic Challenge"
         authors:
