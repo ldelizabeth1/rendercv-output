@@ -28,11 +28,13 @@ cv:
         highlights:
           - "GPA: 3.83"
     Awards and Honors:
-      - company: "Travel Scholarship, PeDRA Pediatric Dermatology Research Alliance"
+      - company: "Travel Scholarship"
+        position: "**PeDRA Pediatric Dermatology Research Alliance**"
         date: "July 2026"
         highlights:
           - "Selected as one of 70 medical students for PeDRA’s NextGen Research Forum; abstract accepted for poster presentation, with a $300 travel scholarship."
       - company: "American Academy of Dermatology | Good Skin Knowledge Community Grant"
+        position: ""
         date: "April 2026"
         highlights:
           - "Awarded $2,000 (maximum tier) to teach AAD’s four-module Good Skin Knowledge curriculum to 100 youth ages 8–13 at Overtown Youth Center, addressing disparities in dermatological health knowledge in an underserved South Florida community."
